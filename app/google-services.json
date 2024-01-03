@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582755045696",
+    "project_id": "notesonfire-fab6c",
+    "storage_bucket": "notesonfire-fab6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582755045696:android:6f748be76a7c8531a4aaa5",
+        "android_client_info": {
+          "package_name": "com.eif.viko.lt.lmackevicius.notesonfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR08-6lGotELYYkNagp76bFisPzw1pEUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
